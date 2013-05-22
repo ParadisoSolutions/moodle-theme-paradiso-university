@@ -36,7 +36,7 @@ echo $OUTPUT->doctype(); ?>
 <li><a href="/user/edit.php?id=%USERID%&amp;course=%COURSEID%" target="_parent">My Profile</a></li>
 <li><a href="/my" target="_parent">My Courses</a></li>
 <li><a href="/message" target="_parent">My Messages</a></li>
-<li><a href="http://my.americansentinel.edu/Account/Login.aspx?ReturnUrl=%2fDefault.aspx" target="_blank">My Grades</a></li>
+<!--<li><a href="http://my.americansentinel.edu/Account/Login.aspx?ReturnUrl=%2fDefault.aspx" target="_blank">My Grades</a></li>-->
 					</ul>
 			    </div>
 			</div>	            
